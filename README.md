@@ -1,4 +1,4 @@
-TODO APP
+
 simple Todo with:
 - add and delete tasks
 - Dark / Light mode
